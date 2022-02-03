@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96444430451",
+    "project_id": "chatflutter-c5dfe",
+    "storage_bucket": "chatflutter-c5dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96444430451:android:e8251f824d0d6bb5c35206",
+        "android_client_info": {
+          "package_name": "br.com.fogaca.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96444430451-rombflh0t4gmlebrkcdgg2fgh3uvstta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fogaca.chat",
+            "certificate_hash": "ab9d475f7b585d81f80989c1f72b4a9cb295d27c"
+          }
+        },
+        {
+          "client_id": "96444430451-1q6abdseqsghh4sv2bekdsiq6opiuk2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBIYSyYrrbRxKJyP4PG-0XVIVVfDB-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96444430451-1q6abdseqsghh4sv2bekdsiq6opiuk2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
