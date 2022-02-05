@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'chat_screen.dart';
 
-void main() async {
+void main() {
   runApp(MyApp());
 }
 
